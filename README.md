@@ -1,3 +1,5 @@
+# Airline baggage checker
+
 Develop Java application to simulate baggage checking for an airline.
 Include key features such as:
 - User input validation.
